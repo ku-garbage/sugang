@@ -1,0 +1,5 @@
+build/
+native/sugang-captcha-recognizer-core/target/
+
+.DS_Store
+*.log
